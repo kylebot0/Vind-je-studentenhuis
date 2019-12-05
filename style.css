@@ -66,6 +66,7 @@ circle:hover {
 }
 
 div.tooltip {
+
     border-left: 2px solid black;
     display: grid;
 
@@ -73,7 +74,7 @@ div.tooltip {
     grid-template-rows: 30% 20% 20% 20%;
     /*   border-radius: 10px; */
     color: black;
-    position: absolute;
+    position: fixed;
     text-align: center;
     width: 150px;
     height: 28px;
@@ -118,11 +119,33 @@ p {
 }
 
 .gif-img {
-    border: 1px solid #82AFA3;
+    border: 1px solid #fff;
     position: fixed;
     height: 60vh;
     width: 20vw;
     left: 20px;
     bottom: 20px;
-    
+
+}
+
+.title-container {
+    position: fixed;
+    top: 0;
+    height: 10vh;
+    background-color: #fff;
+    border: 2px solid #CBDFD2;
+    border-radius: 0 0 999px 999px;
+    width: 30vw;
+    left: 35vw;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-auto-rows: 50% 50%;
+}
+
+.title {
+    font-size: 1.2em;
+}
+
+.sub-title {
+    margin-top: 2%;
 }

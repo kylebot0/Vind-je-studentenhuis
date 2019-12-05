@@ -166,7 +166,7 @@ var bundle = (function(exports, d3$1) {
               "</p>"
           )
           .style("left", d3.event.pageX + "px")
-          .style("top", d3.event.pageY - 125 + "px");
+          .style("top", d3.event.pageY - 340 + "px");
       })
       .on("mouseout", function(d) {
         d3.select(this)
@@ -183,7 +183,7 @@ var bundle = (function(exports, d3$1) {
       .on("click", function(d) {
         d3.selectAll(".active").attr("class", "non-active");
         d3.select(this).attr("class", "active");
-
+        d3.select('.sub-title').transition().duration(300).text('Kies een studentenhuis')
         d3.selectAll(".scholen")
           .transition()
           .delay(300)
@@ -270,7 +270,7 @@ var bundle = (function(exports, d3$1) {
                       "</p>"
                   )
                   .style("left", d3.event.pageX + "px")
-                  .style("top", d3.event.pageY - 125 + "px");
+                  .style("top", d3.event.pageY - 340 + "px");
               })
               .on("mouseout", function(dStudent) {
                 tooltip
@@ -282,6 +282,7 @@ var bundle = (function(exports, d3$1) {
               .selectAll(".studentenhuizen")
 
               .on("click", function(dStudent) {
+                  d3.select('.sub-title').text('pils?')
                 d3.selectAll(".studentenhuizen")
                   .selectAll("circle:nth-child(2)")
                   .transition()
