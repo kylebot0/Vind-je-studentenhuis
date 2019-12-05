@@ -22,7 +22,7 @@ var bundle = (function(exports, d3$1) {
   const projection = d3
     .geoMercator()
     .scale(150000)
-    .center([4.9, 52.38])
+    .center([4.9, 52.36])
   .translate([width / 2, height / 2]);
   // .translate([width / 2, height / 2])
   const path = d3.geoPath().projection(projection);
