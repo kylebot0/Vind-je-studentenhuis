@@ -289,7 +289,15 @@ var bundle = (function(exports, d3$1) {
                   .attr("r", "0")
                   .remove();
                 gif.transition().duration(200).style('opacity', '1')
-                  gif.html(`<img class="gif" src="img/bier.gif"/>`)
+                  gif.html(`<img class="gif-img" src="img/bier.gif"/>`)
+
+                  setTimeout(() => {
+                    gif
+                      .transition()
+                      .duration(200)
+                      .style("opacity", "0")
+                      .select('.gif-img').attr('src', ' ');
+                  }, 10000)
                 console.log(d3.select(this));
                 d3.select(this)
                   .append("circle")
