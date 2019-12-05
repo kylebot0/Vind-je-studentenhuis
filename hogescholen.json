@@ -1,0 +1,112 @@
+[
+ {
+   "Objectnummer": 1,
+   "School": "Hogeschool van Amsterdam",
+   "Locatie": "Weesperplein",
+   "straatnaam": "Wibautstraat 3",
+   "Webpagina": "https://www.hva.nl",
+   "LNG": "4.894867",
+   "LAT": "52.369035",
+   "gebied": ""
+ },
+ {
+   "Objectnummer": 1,
+   "School": "Hogeschool van Amsterdam",
+   "Locatie": "Weesperplein",
+   "straatnaam": "Wibautstraat 3",
+   "Webpagina": "https://www.hva.nl",
+   "LNG": "4.894867",
+   "LAT": "52.369035",
+   "gebied": ""
+ },
+ {
+   "Objectnummer": 2,
+   "School": "Hogeschool Ipabo",
+   "Locatie": "",
+   "straatnaam": "Jan Tooropstraat 136",
+   "Webpagina": "https://www.ipabo.nl",
+   "LNG": "4.836788",
+   "LAT": "52.367236",
+   "gebied": ""
+ },
+ {
+   "Objectnummer": 3,
+   "School": "Universiteit van Amsterdam",
+   "Locatie": "Roeterseiland",
+   "straatnaam": "Roetersstraat 10",
+   "Webpagina": "https://www.uva.nl",
+   "LNG": "4.911065",
+   "LAT": "52.363641",
+   "gebied": ""
+ },
+ {
+   "Objectnummer": 4,
+   "School": "Hogeschool van Amsterdam",
+   "Locatie": "Nicolaes Tulphuis",
+   "straatnaam": "Tafelbergweg 51",
+   "Webpagina": "https://www.hva.nl",
+   "LNG": "4.961779",
+   "LAT": "52.292721",
+   "gebied": ""
+ },
+ {
+   "Objectnummer": 5,
+   "School": "Hogeschool Tio",
+   "Locatie": "",
+   "straatnaam": "Tempelhofstraat 5",
+   "Webpagina": "https://www.tio.nl/vestigingen/amsterdam/?gclid=Cj0KCQiAz53vBRCpARIsAPPsz8X8sJUADd-RzFdo-dHHNImkaPQOBeJY-SttvvECFbRM9F0XHUFkINEaAkNnEALw_wcB",
+   "LNG": "4.840819",
+   "LAT": "52.387180",
+   "gebied": ""
+ },
+ {
+   "Objectnummer": 6,
+   "School": "Hogeschool van Amsterdam",
+   "Locatie": "Dr. Meurerhuis",
+   "straatnaam": "Dokter Meurerlaan 8",
+   "Webpagina": "https://www.hva.nl",
+   "LNG": "4.806173",
+   "LAT": "52.367933",
+   "gebied": ""
+ },
+ {
+   "Objectnummer": 7,
+   "School": "Universiteit van Amsterdam",
+   "Locatie": "Science Park",
+   "straatnaam": "Science Park 904",
+   "Webpagina": "https://www.uva.nl",
+   "LNG": "4.955347",
+   "LAT": "52.345760",
+   "gebied": ""
+ },
+ {
+   "Objectnummer": 8,
+   "School": "Vrije Universiteit Amsterdam",
+   "Locatie": "",
+   "straatnaam": "De Boelenlaan 1105",
+   "Webpagina": "https://www.vu.nl/nl/index.aspx",
+   "LNG": "4.865698",
+   "LAT": "52.333803",
+   "gebied": ""
+ },
+ {
+   "Objectnummer": 9,
+   "School": "Universiteit van Amsterdam",
+   "Locatie": "Universiteitskwartier",
+   "straatnaam": "Nieuwe Doelenlaan 16",
+   "Webpagina": "https://www.uva.nl",
+   "LNG": "4.895089",
+   "LAT": "52.368033",
+   "gebied": ""
+ },
+ {
+   "Objectnummer": 10,
+   "School": "Amsterdamse Hogeschool voor de kunsten",
+   "Locatie": "",
+   "straatnaam": "Jodenbreestraat 3",
+   "Webpagina": "https://www.ahk.nl",
+   "LNG": "4.902184",
+   "LAT": "52.369615",
+   "gebied": ""
+ }
+]
